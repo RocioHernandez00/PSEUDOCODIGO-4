@@ -1,4 +1,4 @@
-Algoritmo paroImpar
+``` pcs Algoritmo paroImpar
 	Repetir
 		Escribir "escribe un numero entre 1 y 50"
 		leer num
