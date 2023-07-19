@@ -1,4 +1,4 @@
-Algoritmo Nombre_Completo
+``` pcs Algoritmo Nombre_Completo
 	Escribir "Escribe un nombre"
 	leer Primer_nombre
 	Escribir "Escribir un apellido"
