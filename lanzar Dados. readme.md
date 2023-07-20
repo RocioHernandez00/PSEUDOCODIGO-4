@@ -1,4 +1,4 @@
-Algoritmo LanzarDados
+``` pcs Algoritmo LanzarDados
 	Definir dado1, dado2 Como Entero
 	Para count = 1 Hasta 10 Con Paso 1 Hacer
 		dado1 = Aleatorio(1,6)
