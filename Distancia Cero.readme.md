@@ -1,4 +1,4 @@
-Algoritmo distanceToZero
+``` pcs Algoritmo distanceToZero
 	Escribir "Escribe un numero"
 	leer maxDistance
 	Para count=1 Hasta 4 Con Paso 1 Hacer
