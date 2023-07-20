@@ -1,4 +1,4 @@
-Algoritmo lanzarMoneda
+``` pcs Algoritmo lanzarMoneda
 	
 	Escribir "Ingresa el nombre del primer jugador"
 	leer player1
