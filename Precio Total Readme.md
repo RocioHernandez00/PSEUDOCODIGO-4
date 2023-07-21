@@ -1,5 +1,4 @@
-
-Funcion valor <- TotalPrecio (precio, iva)
+``` pcs Funcion valor <- TotalPrecio (precio, iva)
 	Definir valor Como Real;
 	SI precio > 3000 Entonces
 		valor = ( precio + (precio/100*iva) ) / 100*90
