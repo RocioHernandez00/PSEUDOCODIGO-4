@@ -1,4 +1,4 @@
-Algoritmo ejemplo_DireccionInversaYTamaño
+``` pcs Algoritmo ejemplo_DireccionInversaYTamaño
 	Imprimir DireccionInversaYTamaño("Hola Mundo")
 FinAlgoritmo
 Funcion resultado <- DireccionInversaYTamaño(texto)
