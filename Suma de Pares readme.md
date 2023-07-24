@@ -1,4 +1,4 @@
-Funcion resultado <- sumaDePares ()
+``` pcs Funcion resultado <- sumaDePares ()
 	Definir resultado Como Real;
 	Definir suma Como Real;
 	suma = 0;
