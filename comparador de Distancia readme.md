@@ -1,4 +1,4 @@
-Funcion resultado <- comparadorDeDistancia ()
+``` pcs Funcion resultado <- comparadorDeDistancia ()
 	Definir resultado Como Logico;
 	Definir NumeroNegativo, NumeroPositivo Como Real;
 	NumeroNegativo = 0;
