@@ -1,4 +1,4 @@
-Funcion result <- midPoint (num1,num2)
+``` pcs Funcion result <- midPoint (num1,num2)
 	Si num1 > 0 Entonces
 		Si num2 > 0 Entonces
 			SI num1 > num2 Entonces
