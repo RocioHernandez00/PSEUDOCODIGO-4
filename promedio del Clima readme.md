@@ -1,4 +1,4 @@
-Funcion celsius <- fahrenheitToCelsius (fahrenheit)
+``` pcs Funcion celsius <- fahrenheitToCelsius (fahrenheit)
 	Definir celsius Como Real;
 	celsius = (fahrenheit - 32 ) / 1.8
 Fin Funcion
