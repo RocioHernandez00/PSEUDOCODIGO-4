@@ -1,4 +1,4 @@
-Funcion balance <- cashier ()
+``` pcs Funcion balance <- cashier ()
 	Definir balance Como Real;
 	balance = 1000;
 	Repetir
